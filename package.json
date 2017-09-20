@@ -1,0 +1,31 @@
+{
+  "name": "react-ts",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/react-redux": "^5.0.9",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.6",
+    "react-scripts-ts": "2.7.0",
+    "redux": "^3.7.2"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/enzyme": "^2.8.8",
+    "@types/jest": "^20.0.8",
+    "@types/node": "^8.0.28",
+    "@types/react": "^16.0.5",
+    "@types/react-dom": "^15.5.4",
+    "@types/sinon": "^2.3.5",
+    "enzyme": "^2.9.1",
+    "react-addons-test-utils": "^15.6.0",
+    "sinon": "^3.3.0",
+    "test-utils": "^1.0.21"
+  }
+}
